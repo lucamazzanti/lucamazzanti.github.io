@@ -2,3 +2,7 @@
     padding-right: 0.3em;
     padding-left: 0.3em;	
 }
+
+article iframe {
+	padding-bottom: 1em;
+}
