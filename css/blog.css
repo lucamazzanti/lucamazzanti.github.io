@@ -3,6 +3,6 @@
     padding-left: 0.3em;	
 }
 
-article iframe {
+article > iframe {
 	padding-bottom: 1em;
 }
